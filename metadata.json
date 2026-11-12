@@ -1,0 +1,6 @@
+{
+  "name": "Chintha Dherazh Portfolio - B.Tech CSE (AIML)",
+  "description": "Interactive 3D portfolio and AI research playground for 1st Year B.Tech CSE (AIML) undergraduate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
